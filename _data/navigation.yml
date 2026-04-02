@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "O mně"
+    url: /o-mne/
+  - title: "Služby a školení"
+    url: /sluzby-a-skoleni/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
