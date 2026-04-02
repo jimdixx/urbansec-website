@@ -2,6 +2,7 @@
 layout: single
 title: "O mně"
 permalink: /o-mne/
+author_profile: true
 lang: cs
 toc: true
 toc_sticky: true
@@ -16,13 +17,13 @@ last_modified_at: 2026-04-01T20:17
 - **Dobrovolné aktivity**
   - **2026-x**: SIMEX Projekt (Red / Purple Teaming); interní projekt.
   - **2026-4**: ~~LockedShields 2026 (**Jméno města**)~~ (Teprve se chystá)
-  - **2026–?**: Stále probíhá
+  - **2026-?**: Stále probíhá
 - **Školení**
-  - **2026–?**: Stále probíhá
-- **Kybernetická bezpečnost – semináře/konference**
+  - **2026-?**: Stále probíhá
+- **Kybernetická bezpečnost - semináře/konference**
   - **2026‑02**: Seminář o bezpečnosti sítí a služeb, Praha (**CESNET, z.s.p.o.**)
 - **Vzdělávání ostatních**
-  - **2026‑01**: Školení zaměstnanců – základy kybernetické bezpečnosti (**Telehouse, Praha**)
+  - **2026‑01**: Školení zaměstnanců - základy kybernetické bezpečnosti (**Telehouse, Praha**)
   - **2026-05**: ~~Přednáška na univerzitě (**Fakulta Aplikovaných Věd, ZČU, Plzeň**)~~ (Teprve se chystá)
   - **2026-06**: ~~Školení dětí zaměstnanců - základy kybernetické bezpečnosti (**Telehouse, Praha**)~~ (Teprve se chystá)
 
@@ -33,8 +34,8 @@ last_modified_at: 2026-04-01T20:17
 - Etický hacker (pentester) ve společnosti **CESNET, z.s.p.o.**
 - Vytváření **materiálů pro školení kybernetické bezpečnosti** a účast na konferencích a kurzech zaměřených na:
   offensive security, forenzní analýzu pamětí (volatilní i nevolatilní) a forenzní analýzu síťového provozu.
-- Aktivní účast v **CTFs** (Hack The Box, různé další výzvy) – kombinace SW inženýrství a offensive security.
-- Dlouhodobý cíl: stát se **architektem kybernetické bezpečnosti** – chci se podílet na vývoji bezpečných a
+- Aktivní účast v **CTFs** (Hack The Box, různé další výzvy) - kombinace SW inženýrství a offensive security.
+- Dlouhodobý cíl: stát se **architektem kybernetické bezpečnosti** - chci se podílet na vývoji bezpečných a
   komplexnějších systémů.
 - Aktivní softwarový vývojář: ve volném čase se podílím na vývoji aplikací, pomáhám kolegům s automatizací
   a podílím se na tvorbě **CTF (Capture the Flag) výzev** v různých technologiích.
@@ -46,14 +47,14 @@ last_modified_at: 2026-04-01T20:17
 
 **Školení**
 
-- **2025‑x**: Thecatch.cz 2024 – interní cvičení (**CESNET, z.s.p.o.**)  
+- **2025‑x**: Thecatch.cz 2024 - interní cvičení (**CESNET, z.s.p.o.**)  
 - **2025‑x**: Pokročilé interní cvičení (Hack The Box)  
-- **2025‑01**: Forenzní analýza – Síť (**CESNET, z.s.p.o.**)  
-- **2025‑06**: Forenzní analýza – Souborový systém (**CESNET, z.s.p.o.**)  
-- **2025‑06**: Forenzní analýza – Operační paměť (**CZ.NIC**)  
-- **2025‑07**: Thecatch.cz 2025 – vývojář & interní cvičení (**CESNET, z.s.p.o.**)  
+- **2025‑01**: Forenzní analýza - Síť (**CESNET, z.s.p.o.**)  
+- **2025‑06**: Forenzní analýza - Souborový systém (**CESNET, z.s.p.o.**)  
+- **2025‑06**: Forenzní analýza - Operační paměť (**CZ.NIC**)  
+- **2025‑07**: Thecatch.cz 2025 - vývojář & interní cvičení (**CESNET, z.s.p.o.**)  
 
-**Kybernetická bezpečnost – semináře/konference**
+**Kybernetická bezpečnost - semináře/konference**
 
 - **2025‑02**: Seminář o bezpečnosti sítí a služeb, Praha (**CESNET, z.s.p.o.**)  
 - **2025‑04**: Technica Futura, Plzeň  
@@ -66,7 +67,7 @@ last_modified_at: 2026-04-01T20:17
 
 ---
 
-### 2021–2024
+### 2021-2024
 
 - Softwarový inženýr ve společnosti **Aimtec, a.s.**
   (Java, Spring Boot, SQL, PostgreSQL, REST APIs).
@@ -83,7 +84,7 @@ last_modified_at: 2026-04-01T20:17
 
 ---
 
-### 2019–2022
+### 2019-2022
 
 - Bakalářské vzdělání v oboru **Computer Science (počítačové vědy)**  
   (Západočeská univerzita).
@@ -96,7 +97,7 @@ last_modified_at: 2026-04-01T20:17
 
 ---
 
-### 2015–2019
+### 2015-2019
 
 - Střední škola se zaměřením na informační technologie  
   (**VOŠ, OA a SZŠ Domažlice**).
@@ -148,7 +149,7 @@ S týmem pentestujeme v podstatě vše:
 - a mnoho dalšího  
 
 Od doby, co pracuji v kybernetické bezpečnosti, si víc uvědomuji reálné hrozby a dopady
-kybernetických incidentů. Proto jsem se rozhodl věnovat se také **vzdělávání** –
+kybernetických incidentů. Proto jsem se rozhodl věnovat se také **vzdělávání** -
 školím zaměstnance ve firmách i žáky/studenty ve školách v **základech kybernetické
 bezpečnosti**. Spousta lidí některé zásady zná, ale v praxi na ně zapomíná.
 Považuji za důležité si základy pravidelně připomínat a ukazovat jejich dopady

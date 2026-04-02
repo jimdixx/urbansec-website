@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Služby a školení"
+author_profile: true
 permalink: /sluzby-a-skoleni/
 lang: cs
 toc: true
@@ -45,7 +46,7 @@ v budoucím vývoji vyhnout.
 ### 2. Bezpečný vývoj a architektura (úvodní úroveň)
 
 Vyšel jsem ze softwarového inženýrství, takže mohu podpořit váš vývojový tým při
-zabezpečení aplikací – zejména pokud zatím nemáte žádné formální bezpečnostní postupy.
+zabezpečení aplikací - zejména pokud zatím nemáte žádné formální bezpečnostní postupy.
 
 Mohu například:
 
@@ -57,7 +58,7 @@ Mohu například:
 - Navrhnout jednoduché kontroly, které lze zařadit do vašeho stávajícího vývojového procesu.
 
 Soustředím se na **praktická, postupná zlepšení**, která odpovídají vaší aktuální technologii
-a úrovni vyspělosti – ne na zavádění těžkých „enterprise“ rámců jen kvůli formě.
+a úrovni vyspělosti - ne na zavádění těžkých „enterprise“ rámců jen kvůli formě.
 
 ---
 
@@ -126,7 +127,7 @@ výhradně pro školení a demonstrace.
 
 ## Jak útočníci přemýšlejí a pracují
 
-Při školení i konzultacích kladu důraz na **pohled útočníka** – pochopení toho,
+Při školení i konzultacích kladu důraz na **pohled útočníka** - pochopení toho,
 **jak** útočník přemýšlí a postupuje, pomáhá správně prioritizovat obranu.
 
 Útočníci mohou usilovat o:
@@ -134,7 +135,7 @@ Při školení i konzultacích kladu důraz na **pohled útočníka** – pochop
 - Krádež citlivých dat (osobní údaje, přihlašovací údaje, duševní vlastnictví, finanční informace).
 - Úpravu nebo zničení dat s cílem narušit provoz.
 - Vydírání organizace pomocí ransomwaru nebo hrozby zveřejnění dat.
-- Zpeněžení přístupu – prodejem, nebo využitím jako „odrazový můstek“ na další cíle.
+- Zpeněžení přístupu - prodejem, nebo využitím jako „odrazový můstek“ na další cíle.
 
 První krok bývá získání **počátečního přístupu**. Mezi časté vstupní body patří:
 
@@ -178,5 +179,5 @@ Pokud máte zájem například o:
 jsem otevřený **spolupráci formou menších konzultací a přizpůsobených workshopů**.
 
 Můžeme společně projít vaši situaci, cíle a očekávání a domluvit
-takovou formu spolupráce, která pro vaši organizaci dává největší smysl – s důrazem
+takovou formu spolupráce, která pro vaši organizaci dává největší smysl - s důrazem
 na praktičnost a srozumitelnost, ne na nadbytečnou „enterprise“ administrativu.
