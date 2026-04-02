@@ -14,6 +14,7 @@ last_modified_at: 2026-04-01T20:17
 
 - Etický hacker (pentester) ve společnosti **CESNET, z.s.p.o.**  
 - **Dobrovolné aktivity**
+  - **2026-x**: SIMEX Projekt (Red / Purple Teaming); interní projekt.
   - **2026-4**: ~~LockedShields 2026 (**Jméno města**)~~ (Teprve se chystá)
   - **2026–?**: Stále probíhá
 - **Školení**
