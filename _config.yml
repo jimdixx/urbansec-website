@@ -118,7 +118,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "SW Engineer, Cybersecurity Engineer"
   location         : "The Czech republic"
-  email            : "info@urbansec.cz"
+  email            : 
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
